@@ -67,3 +67,5 @@ E.g. I need water here and there.  --> This message will have categories like wa
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to Figure Eight to make their disater data available. 
+
+Github repository: https://github.com/Kristan88/Udacity_project2.git
